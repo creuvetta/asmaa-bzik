@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import '../models/show.dart';
-import '../services/api_service.dart';
-import '../widgets/show_card.dart';
-import 'add_page.dart';
-import 'update_page.dart';
+import '../services/api-service.dart';
+import '../widgets/show-card.dart';
+import 'add-page.dart';
+import 'update-page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
